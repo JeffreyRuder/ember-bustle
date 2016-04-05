@@ -1,7 +1,6 @@
-# Bustle-clone
+# Bustle Clone
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+A clone of Bustle created as practice with Ember. Practice interacting with Firebase. Practice in creating header and navbar in application template file.
 
 ## Prerequisites
 
